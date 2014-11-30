@@ -1,7 +1,6 @@
 <?php
 namespace Sandorpack;
 
-define('SES_PR' , 'test_task');
 
 class Session
 {
